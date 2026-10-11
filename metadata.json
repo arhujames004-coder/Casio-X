@@ -1,0 +1,6 @@
+{
+  "name": "Casio Calculator",
+  "description": "Modern Casio scientific calculator with graphing, matrix operations, complex equation solver, statistics, unit conversion, and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
